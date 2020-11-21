@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "460707818429",
+    "firebase_url": "https://email-signin-395de.firebaseio.com",
+    "project_id": "email-signin-395de",
+    "storage_bucket": "email-signin-395de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460707818429:android:504084d33d5ed83da400d4",
+        "android_client_info": {
+          "package_name": "com.example.email_signin_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460707818429-5u7o22qnnfdafjinog761m2hgkdlq11r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmnFc3C5VSEq67uemmkwEgzRE64SMh-Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460707818429-5u7o22qnnfdafjinog761m2hgkdlq11r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
